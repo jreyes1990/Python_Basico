@@ -3,5 +3,10 @@
 
 cadena = "Cadena texto"
 
+#Indices
 print(cadena[0],cadena[1],cadena[2],cadena[3],cadena[4],cadena[5])
 print(cadena[-5],cadena[-4],cadena[-3],cadena[-2],cadena[-1])
+
+#Slicing
+print(cadena[:6])
+print(cadena[-5:])
