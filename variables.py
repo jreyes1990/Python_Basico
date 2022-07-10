@@ -11,3 +11,5 @@ print(type(flotante))
 miltiples lineas
 de codigo
 python'''
+
+print("Mi nombre es ",nombre," y tengo ",edad," años")
