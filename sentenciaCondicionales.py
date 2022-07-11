@@ -32,3 +32,4 @@ elif texto == 'RETIRARSE':
         print("Ok, nos vemos")
 else: 
     print("Ingrese una valida")
+    
