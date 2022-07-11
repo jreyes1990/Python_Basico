@@ -86,6 +86,3 @@ print(f"""{equipo}""")
 
 for e in equipo:
    print(e["Nombre"],",",e["Clase"]," oriundo de ",e["Nación"])
-
-
-   
