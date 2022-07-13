@@ -1,6 +1,6 @@
 # Se crea una estructura para los productos
 class Producto:
-
+    
     def __init__(self, cod, nombre, categoria, pvp):
         self.cod = cod
         self.nombre = nombre
